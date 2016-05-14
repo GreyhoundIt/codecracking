@@ -1,0 +1,36 @@
+.bg{
+  
+  background: url(../img/space.jpg) no-repeat bottom center ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:500px;
+  width:100%;
+
+}
+
+
+.warning {
+  background-color: red;
+}
+.success {
+  background-color: green;
+}
+
+.col-sm-3 {
+  padding-bottom: 60px;
+}
+
+.launch {
+  padding: 60px;
+}
+.quotes {display: none;}
+
+input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    width: 100%;
+    height: 45px;
+    font-size: 30px;
+}
